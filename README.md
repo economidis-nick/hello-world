@@ -1,2 +1,3 @@
 # hello-world
-A test repository
+A test repository with minor changes.
+And yet some more minor changes...
